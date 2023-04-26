@@ -17,7 +17,7 @@ Document - equates to a record
 
 # Inital Setup
 - `npm init -y` Creates the package.json
-- `npm i express dotenv mongoose bcrypt`
+- `npm i express dotenv mongoose bcrypt jsonwebtoken`
 - create the `app.js` file
 - update our `package.json` file to reflect the app.js is the starting file.
 - add boiler plate code

@@ -32,3 +32,12 @@ SILVER DESCRIPTION:
 ## Gold
 
 GOLD DESCRIPTION:
+	Complete the silver level challenge above, but make sure
+    that passwords are saved encrypted.  When the '/user/create'
+    and '/user/login' endpoints send the user information back,
+    make sure that information contains a token using
+    jwt (this uses the jsonwebtoken dependency).
+
+    Note :: You will modify Bronze and Silver to use bcrypt and 
+    implement tokens using jsonwebtoken
+
